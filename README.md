@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working as a Frontend Developer at Accenture.<br>🌱 Interests<br>I’m passionate about  Full Stack Development and System Design.<br>🙍‍♂️ About Me<br>I am a UI Developer with 4+ years of experience having expertise in<br>frontend and exposure to backend. I can design & develop web apps <br>using the latest technologies to deliver the product with quality code.<br>I am very good at UI fundamentals & technologies and can adapt <br>to most of the frontend frameworks quickly.<br>⚡ Fun fact<br>I am passionate about historical, mythological and thriller Novels.<br>I am also a part time Quiz Master!.
+🔭 I’m currently working as a Frontend Developer at Accenture.<br>🌱 Interests<br>I’m passionate about  Full Stack Development and System Design.<br>🙍‍♂️ In a nutshell<br>I am a UI Developer with 4+ years of experience having expertise in<br>frontend and exposure to backend. I can design & develop web apps <br>using the latest technologies to deliver the product with quality code.<br>I am very good at UI fundamentals & technologies and can adapt <br>to most of the frontend frameworks quickly.<br>⚡ Fun fact<br>I am passionate about historical, mythological and thriller Novels.<br>I am also a part time Quiz Master!.
 
 
 ## 🌐 Socials:
